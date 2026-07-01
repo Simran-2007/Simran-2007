@@ -11,7 +11,6 @@
 
 ### 🙋‍♀️ About Me
 
-I'm a 2nd-year **BCA student** at **Dev Samaj College for Women**, and a **University Rank Holder** across multiple semesters. I'm IBM certified and currently deep in building a hands-on Machine Learning portfolio — going beyond tutorials to build real, end-to-end projects I can explain in an interview.
 
 - 🎓 BCA (Bachelor of Computer Applications), 2nd Year
 - 🏆 University Rank Holder — multiple semesters
