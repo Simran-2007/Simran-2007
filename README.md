@@ -13,7 +13,7 @@
 
 
 - 🎓 BCA (Bachelor of Computer Applications), 2nd Year
-- 🏆 University Rank Holder — multiple semesters
+- 🏆 University Rank Holder — 3rd semester
 - 📜 IBM Certified
 - 🔭 Currently building: **Credit Card Fraud Detection** & **Movie Recommendation System**
 - 🌱 Learning: Applied ML, model evaluation for imbalanced data, recommendation systems
