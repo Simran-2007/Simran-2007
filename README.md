@@ -36,34 +36,6 @@ I'm a 2nd-year **BCA student** at **Dev Samaj College for Women**, and a **Unive
 
 **Core Concepts:** Classification · Imbalanced Data (SMOTE) · TF-IDF · Collaborative Filtering · Content-Based Filtering · Model Evaluation (Precision/Recall/F1/ROC-AUC)
 
----
-
-### 📌 Featured Projects
-
-#### 🔍 [Credit Card Fraud Detection](#)
-An end-to-end fraud detection pipeline built on a custom, human-readable dataset (rather than abstract PCA-style features).
-- Handled severe class imbalance using **SMOTE**
-- Trained and compared **Logistic Regression** and **Random Forest** classifiers
-- Evaluated using imbalance-aware metrics — Precision, Recall, F1-score, ROC-AUC — instead of plain accuracy
-- **Tech:** Python, pandas, scikit-learn, imbalanced-learn, matplotlib, seaborn
-
-#### 🎬 [Movie Recommendation System](#)
-A dual-approach recommender system exploring two different ML paradigms.
-- **Content-Based Filtering** using TF-IDF vectorization on movie metadata
-- **Collaborative Filtering** based on user-item interaction patterns
-- Chosen deliberately to complement the fraud detection project with a different flavor of ML
-- **Tech:** Python, pandas, scikit-learn, TF-IDF
-
-> 💡 Replace the `#` links above with your actual repo URLs once pushed.
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true" height="165"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true" height="165"/>
