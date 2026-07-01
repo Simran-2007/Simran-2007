@@ -39,7 +39,3 @@
 
 - Preparing for fresher placements — practicing quantitative aptitude, logical reasoning, and CS fundamentals (OOP, DBMS, SQL)
 - Building out a portfolio to make my resume stand out beyond placeholder projects
-
----
-
-<p align="center"><i>⭐️ Thanks for stopping by — always open to connecting!</i></p>
