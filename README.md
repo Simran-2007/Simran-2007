@@ -12,14 +12,14 @@
 ### 🙋‍♀️ About Me
 
 
-- 🎓 BCA (Bachelor of Computer Applications), 2nd Year
-- 🏆 University Rank Holder — 3rd semester
-- 📜 IBM Certified
-- 🔭 Currently building: **Credit Card Fraud Detection** & **Movie Recommendation System**
-- 🌱 Learning: Applied ML, model evaluation for imbalanced data, recommendation systems
-- 🎯 Goal: Fresher internships & placements in technical/engineering roles
-- 💬 Ask me about: pandas, scikit-learn, SMOTE, TF-IDF, or why accuracy is a terrible metric for fraud detection
-- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/simranjeet-kaur-082a3441a/)
+- BCA (Bachelor of Computer Applications), 2nd Year
+- University Rank Holder — 3rd semester
+- IBM Certified
+- Currently building: **Credit Card Fraud Detection**
+- Learning: Applied ML, model evaluation for imbalanced data, recommendation systems
+- Goal: Fresher internships & placements in technical/engineering roles
+- Ask me about: pandas, scikit-learn, SMOTE, TF-IDF, or why accuracy is a terrible metric for fraud detection
+- Reach me: [LinkedIn](https://www.linkedin.com/in/simranjeet-kaur-082a3441a/)
 
 ---
 
