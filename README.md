@@ -34,13 +34,6 @@ I'm a 2nd-year **BCA student** at **Dev Samaj College for Women**, and a **Unive
 | **Visualization** | ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square) ![Seaborn](https://img.shields.io/badge/-Seaborn-4C72B0?style=flat-square) |
 | **Tools** | ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) |
 
-**Core Concepts:** Classification · Imbalanced Data (SMOTE) · TF-IDF · Collaborative Filtering · Content-Based Filtering · Model Evaluation (Precision/Recall/F1/ROC-AUC)
-
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true" height="165"/>
-</p>
-
 ---
 
 ### 🎯 Currently
